@@ -1,0 +1,263 @@
+Jun 14 11:05:41 btlsokrishnak anacron[18093]: Job `cron.daily' terminated
+Jun 14 11:05:41 btlsokrishnak anacron[18093]: Normal exit (1 job run)
+Jun 14 11:10:27 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:12:34 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:15:01 btlsokrishnak CRON[20194]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 11:17:01 btlsokrishnak CRON[20262]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 11:24:06 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:25:01 btlsokrishnak CRON[20697]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 11:27:15 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:31:12 btlsokrishnak kernel: [12229.159876] perf: interrupt took too long (3216 > 3196), lowering kernel.perf_event_max_sample_rate to 62000
+Jun 14 11:33:33 btlsokrishnak wpa_supplicant[1579]: message repeated 2 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 11:34:27 btlsokrishnak systemd-timesyncd[947]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+Jun 14 11:35:01 btlsokrishnak CRON[21111]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 11:37:42 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:45:01 btlsokrishnak CRON[21586]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 11:45:06 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:54:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 11:55:01 btlsokrishnak CRON[21999]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 11:55:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:01:54 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:05:01 btlsokrishnak CRON[22493]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 12:09:17 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:15:01 btlsokrishnak CRON[23364]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 12:15:35 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:16:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:17:01 btlsokrishnak CRON[23483]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 12:25:01 btlsokrishnak CRON[24023]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 12:27:06 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:30:15 btlsokrishnak wpa_supplicant[1579]: message repeated 3 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 12:35:01 btlsokrishnak CRON[24834]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 12:38:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:40:45 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:45:01 btlsokrishnak CRON[25346]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 12:53:21 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:54:24 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 12:55:01 btlsokrishnak CRON[25739]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 12:58:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:05:01 btlsokrishnak CRON[26171]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 13:07:19 btlsokrishnak upowerd[1882]: (upowerd:1882): UPower-Linux-WARNING **: energy 54.993600 bigger than full 38.988000
+Jun 14 13:12:23 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:14:21 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:15:01 btlsokrishnak CRON[26653]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 13:15:48 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:17:01 btlsokrishnak CRON[26716]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 13:25:01 btlsokrishnak CRON[27065]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 13:25:52 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:28:37 btlsokrishnak kernel: [19274.495469] perf: interrupt took too long (4021 > 4020), lowering kernel.perf_event_max_sample_rate to 49500
+Jun 14 13:33:15 btlsokrishnak wpa_supplicant[1579]: message repeated 4 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 13:35:01 btlsokrishnak CRON[27498]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 13:39:33 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:41:42 btlsokrishnak kernel: [20059.491616] [drm] Reducing the compressed framebuffer size. This may lead to less power savings than a non-reduced-size. Try to increase stolen memory size if available in BIOS.
+Jun 14 13:45:01 btlsokrishnak CRON[27935]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 13:46:38 btlsokrishnak kernel: [20355.224123] e1000e: enp0s31f6 NIC Link is Down
+Jun 14 13:46:38 btlsokrishnak NetworkManager[1163]: <info>  [1560500198.5359] device (enp0s31f6): link disconnected (deferring action for 4 seconds)
+Jun 14 13:46:38 btlsokrishnak kernel: [20355.234815] acpi PNP0401:00: Already enumerated
+Jun 14 13:46:38 btlsokrishnak kernel: [20355.324017] usb 1-5: USB disconnect, device number 4
+Jun 14 13:46:38 btlsokrishnak kernel: [20355.324417] usb 2-2: USB disconnect, device number 2
+Jun 14 13:46:38 btlsokrishnak kernel: [20355.324992] usb 1-6: USB disconnect, device number 5
+Jun 14 13:46:43 btlsokrishnak NetworkManager[1163]: <info>  [1560500203.0160] device (enp0s31f6): link disconnected (calling deferred action)
+Jun 14 13:46:43 btlsokrishnak NetworkManager[1163]: <info>  [1560500203.0175] device (enp0s31f6): state change: activated -> unavailable (reason 'carrier-changed') [100 20 40]
+Jun 14 13:46:43 btlsokrishnak NetworkManager[1163]: <info>  [1560500203.0512] dhcp4 (enp0s31f6): canceled DHCP transaction, DHCP client pid 18204
+Jun 14 13:46:43 btlsokrishnak NetworkManager[1163]: <info>  [1560500203.0514] dhcp4 (enp0s31f6): state changed bound -> done
+Jun 14 13:46:43 btlsokrishnak avahi-daemon[1123]: Withdrawing address record for 172.16.42.37 on enp0s31f6.
+Jun 14 13:46:43 btlsokrishnak avahi-daemon[1123]: Leaving mDNS multicast group on interface enp0s31f6.IPv4 with address 172.16.42.37.
+Jun 14 13:46:43 btlsokrishnak avahi-daemon[1123]: Interface enp0s31f6.IPv4 no longer relevant for mDNS.
+Jun 14 13:46:43 btlsokrishnak avahi-daemon[1123]: Withdrawing address record for fe80::14e7:817f:59b8:5a40 on enp0s31f6.
+Jun 14 13:46:43 btlsokrishnak avahi-daemon[1123]: Leaving mDNS multicast group on interface enp0s31f6.IPv6 with address fe80::14e7:817f:59b8:5a40.
+Jun 14 13:46:43 btlsokrishnak avahi-daemon[1123]: Interface enp0s31f6.IPv6 no longer relevant for mDNS.
+Jun 14 13:46:43 btlsokrishnak dnsmasq[2051]: setting upstream servers from DBus
+Jun 14 13:46:43 btlsokrishnak whoopsie[2286]: [13:46:43] Cannot reach: https://daisy.ubuntu.com
+Jun 14 13:46:43 btlsokrishnak whoopsie[2286]: [13:46:43] offline
+Jun 14 13:46:43 btlsokrishnak org.gtk.vfs.Daemon[3352]: ** (process:14313): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+Jun 14 13:46:43 btlsokrishnak whoopsie[2286]: [13:46:43] Cannot reach: https://daisy.ubuntu.com
+Jun 14 13:46:43 btlsokrishnak NetworkManager[1163]: <info>  [1560500203.0772] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 14 13:47:11 btlsokrishnak dnsmasq[1269]: reading /var/run/dnsmasq/resolv.conf
+Jun 14 13:47:11 btlsokrishnak dnsmasq[1269]: using nameserver 172.16.140.34#53
+Jun 14 13:47:11 btlsokrishnak dnsmasq[1269]: using nameserver 127.0.1.1#53
+Jun 14 13:47:12 btlsokrishnak systemd[1]: Reloading LSB: Postfix Mail Transport Agent.
+Jun 14 13:47:12 btlsokrishnak postfix[28189]:  * Reloading Postfix configuration...
+Jun 14 13:47:12 btlsokrishnak postfix[28193]: Postfix is running with backwards-compatible default settings
+Jun 14 13:47:12 btlsokrishnak postfix[28193]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 14 13:47:12 btlsokrishnak postfix[28193]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 14 13:47:12 btlsokrishnak postfix/master[2597]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 14 13:47:12 btlsokrishnak postfix[28189]:    ...done.
+Jun 14 13:47:12 btlsokrishnak systemd[1]: Reloaded LSB: Postfix Mail Transport Agent.
+Jun 14 13:47:12 btlsokrishnak NetworkManager[1163]: /etc/resolvconf/update-libc.d/sendmail: 7: .: Can't open /usr/share/sendmail/dynamic
+Jun 14 13:47:12 btlsokrishnak NetworkManager[1163]: run-parts: /etc/resolvconf/update-libc.d/sendmail exited with return code 2
+Jun 14 13:47:12 btlsokrishnak NetworkManager[1163]: run-parts: /etc/resolvconf/update.d/libc exited with return code 1
+Jun 14 13:47:12 btlsokrishnak NetworkManager[1163]: <warn>  [1560500232.3671] dns-mgr: resolvconf failed with status 256
+Jun 14 13:47:12 btlsokrishnak NetworkManager[1163]: <warn>  [1560500232.3672] dns-mgr: could not commit DNS changes: resolvconf failed with status 256
+Jun 14 13:47:12 btlsokrishnak NetworkManager[1163]: <info>  [1560500232.3677] manager: NetworkManager state is now CONNECTED_LOCAL
+Jun 14 13:47:12 btlsokrishnak dbus[1147]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 14 13:47:12 btlsokrishnak systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 14 13:47:12 btlsokrishnak dbus[1147]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 14 13:47:12 btlsokrishnak systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 14 13:47:12 btlsokrishnak nm-dispatcher: req:1 'down' [enp0s31f6]: new request (1 scripts)
+Jun 14 13:47:12 btlsokrishnak nm-dispatcher: req:1 'down' [enp0s31f6]: start running ordered scripts...
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.401820] atkbd_interrupt: 7 callbacks suppressed
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.401823] atkbd serio0: Spurious ACK on isa0060/serio0. Some program might be trying to access hardware directly.
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.410144] usb 1-6: new high-speed USB device number 6 using xhci_hcd
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.426633] acpi PNP0401:00: Already enumerated
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.558468] usb 1-6: New USB device found, idVendor=413c, idProduct=2513
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.558471] usb 1-6: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.558934] hub 1-6:1.0: USB hub found
+Jun 14 13:51:16 btlsokrishnak kernel: [20633.558961] hub 1-6:1.0: 3 ports detected
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.938142] usb 2-2: new SuperSpeed USB device number 3 using xhci_hcd
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.958506] usb 2-2: New USB device found, idVendor=413c, idProduct=5534
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.958515] usb 2-2: New USB device strings: Mfr=2, Product=3, SerialNumber=0
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.958522] usb 2-2: Product: USB5534
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.958528] usb 2-2: Manufacturer: SMSC
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.963564] hub 2-2:1.0: USB hub found
+Jun 14 13:51:17 btlsokrishnak kernel: [20633.964162] hub 2-2:1.0: 3 ports detected
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.077989] usb 1-5: new high-speed USB device number 7 using xhci_hcd
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.148916] [drm:intel_cpu_fifo_underrun_irq_handler [i915]] *ERROR* CPU pipe C FIFO underrun
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.218258] usb 1-5: New USB device found, idVendor=413c, idProduct=2134
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.218260] usb 1-5: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.218261] usb 1-5: Product: USB2134
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.218263] usb 1-5: Manufacturer: SMSC
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.218658] hub 1-5:1.0: USB hub found
+Jun 14 13:51:17 btlsokrishnak kernel: [20634.218680] hub 1-5:1.0: 3 ports detected
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1016] device (enp0s31f6): link connected
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1035] device (enp0s31f6): state change: unavailable -> disconnected (reason 'carrier-changed') [20 30 40]
+Jun 14 13:51:18 btlsokrishnak kernel: [20634.790695] e1000e: enp0s31f6 NIC Link is Up 100 Mbps Full Duplex, Flow Control: None
+Jun 14 13:51:18 btlsokrishnak kernel: [20634.790708] e1000e 0000:00:1f.6 enp0s31f6: 10/100 speed: disabling TSO
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1097] policy: auto-activating connection 'Wired connection 1'
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1141] device (enp0s31f6): Activation: starting connection 'Wired connection 1' (8de68475-d356-395c-a9e9-b03870b9e4ca)
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1150] device (enp0s31f6): state change: disconnected -> prepare (reason 'none') [30 40 0]
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1156] manager: NetworkManager state is now CONNECTING
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1200] device (enp0s31f6): state change: prepare -> config (reason 'none') [40 50 0]
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1254] device (enp0s31f6): state change: config -> ip-config (reason 'none') [50 70 0]
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1270] dhcp4 (enp0s31f6): activation: beginning transaction (timeout in 45 seconds)
+Jun 14 13:51:18 btlsokrishnak NetworkManager[1163]: <info>  [1560500478.1367] dhcp4 (enp0s31f6): dhclient started with pid 28605
+Jun 14 13:51:18 btlsokrishnak dhclient[28605]: DHCPREQUEST of 172.16.42.37 on enp0s31f6 to 255.255.255.255 port 67 (xid=0x67790a39)
+Jun 14 13:51:19 btlsokrishnak avahi-daemon[1123]: Joining mDNS multicast group on interface enp0s31f6.IPv6 with address fe80::14e7:817f:59b8:5a40.
+Jun 14 13:51:19 btlsokrishnak avahi-daemon[1123]: New relevant interface enp0s31f6.IPv6 for mDNS.
+Jun 14 13:51:19 btlsokrishnak avahi-daemon[1123]: Registering new address record for fe80::14e7:817f:59b8:5a40 on enp0s31f6.*.
+Jun 14 13:51:21 btlsokrishnak dhclient[28605]: DHCPREQUEST of 172.16.42.37 on enp0s31f6 to 255.255.255.255 port 67 (xid=0x67790a39)
+Jun 14 13:51:21 btlsokrishnak dhclient[28605]: DHCPACK of 172.16.42.37 from 172.16.42.1
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2454]   address 172.16.42.37
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2456]   plen 24 (255.255.255.0)
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2457]   gateway 172.16.42.1
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2457]   server identifier 172.16.41.75
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2458]   lease time 345600
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2459]   nameserver '172.16.41.75'
+Jun 14 13:51:21 btlsokrishnak avahi-daemon[1123]: Joining mDNS multicast group on interface enp0s31f6.IPv4 with address 172.16.42.37.
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2460]   nameserver '172.16.140.75'
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2460]   domain name 'corp.flock.com'
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2461] dhcp4 (enp0s31f6): state changed unknown -> bound
+Jun 14 13:51:21 btlsokrishnak avahi-daemon[1123]: New relevant interface enp0s31f6.IPv4 for mDNS.
+Jun 14 13:51:21 btlsokrishnak avahi-daemon[1123]: Registering new address record for 172.16.42.37 on enp0s31f6.IPv4.
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2589] device (enp0s31f6): state change: ip-config -> ip-check (reason 'none') [70 80 0]
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2630] device (enp0s31f6): state change: ip-check -> secondaries (reason 'none') [80 90 0]
+Jun 14 13:51:21 btlsokrishnak dhclient[28605]: bound to 172.16.42.37 -- renewal in 133598 seconds.
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2647] device (enp0s31f6): state change: secondaries -> activated (reason 'none') [90 100 0]
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2654] manager: NetworkManager state is now CONNECTED_LOCAL
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2820] manager: NetworkManager state is now CONNECTED_GLOBAL
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2824] policy: set 'Wired connection 1' (enp0s31f6) as default for IPv4 routing and DNS
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.2830] dns-mgr: Writing DNS information to /sbin/resolvconf
+Jun 14 13:51:21 btlsokrishnak dnsmasq[2051]: setting upstream servers from DBus
+Jun 14 13:51:21 btlsokrishnak dnsmasq[2051]: using nameserver 172.16.41.75#53(via enp0s31f6)
+Jun 14 13:51:21 btlsokrishnak dnsmasq[2051]: using nameserver 172.16.140.75#53(via enp0s31f6)
+Jun 14 13:51:21 btlsokrishnak dnsmasq[1269]: reading /var/run/dnsmasq/resolv.conf
+Jun 14 13:51:21 btlsokrishnak dnsmasq[1269]: using nameserver 172.16.140.34#53
+Jun 14 13:51:21 btlsokrishnak dnsmasq[1269]: using nameserver 127.0.1.1#53
+Jun 14 13:51:21 btlsokrishnak org.gtk.vfs.Daemon[3352]: ** (process:14313): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+Jun 14 13:51:21 btlsokrishnak systemd[1]: Reloading LSB: Postfix Mail Transport Agent.
+Jun 14 13:51:21 btlsokrishnak postfix[28683]:  * Reloading Postfix configuration...
+Jun 14 13:51:21 btlsokrishnak postfix[28687]: Postfix is running with backwards-compatible default settings
+Jun 14 13:51:21 btlsokrishnak postfix[28687]: See http://www.postfix.org/COMPATIBILITY_README.html for details
+Jun 14 13:51:21 btlsokrishnak postfix[28687]: To disable backwards compatibility use "postconf compatibility_level=2" and "postfix reload"
+Jun 14 13:51:21 btlsokrishnak postfix/master[2597]: reload -- version 3.1.0, configuration /etc/postfix
+Jun 14 13:51:21 btlsokrishnak postfix[28683]:    ...done.
+Jun 14 13:51:21 btlsokrishnak systemd[1]: Reloaded LSB: Postfix Mail Transport Agent.
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: /etc/resolvconf/update-libc.d/sendmail: 7: .: Can't open /usr/share/sendmail/dynamic
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: run-parts: /etc/resolvconf/update-libc.d/sendmail exited with return code 2
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <warn>  [1560500481.6089] dns-mgr: resolvconf failed with status 256
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: run-parts: /etc/resolvconf/update.d/libc exited with return code 1
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <warn>  [1560500481.6090] dns-mgr: could not commit DNS changes: resolvconf failed with status 256
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <info>  [1560500481.6092] device (enp0s31f6): Activation: successful, device activated.
+Jun 14 13:51:21 btlsokrishnak dbus[1147]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service'
+Jun 14 13:51:21 btlsokrishnak systemd[1]: Starting Network Manager Script Dispatcher Service...
+Jun 14 13:51:21 btlsokrishnak whoopsie[2286]: [13:51:21] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/11
+Jun 14 13:51:21 btlsokrishnak whoopsie[2286]: [13:51:21] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/11
+Jun 14 13:51:21 btlsokrishnak whoopsie[2286]: [13:51:21] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/11
+Jun 14 13:51:21 btlsokrishnak whoopsie[2286]: [13:51:21] online
+Jun 14 13:51:21 btlsokrishnak dbus[1147]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Jun 14 13:51:21 btlsokrishnak systemd[1]: Started Network Manager Script Dispatcher Service.
+Jun 14 13:51:21 btlsokrishnak nm-dispatcher: req:1 'up' [enp0s31f6]: new request (1 scripts)
+Jun 14 13:51:21 btlsokrishnak nm-dispatcher: req:1 'up' [enp0s31f6]: start running ordered scripts...
+Jun 14 13:51:21 btlsokrishnak nm-dispatcher[28700]: /etc/network/if-up.d/sendmail: 44: .: Can't open /usr/share/sendmail/dynamic
+Jun 14 13:51:21 btlsokrishnak nm-dispatcher[28700]: run-parts: /etc/network/if-up.d/sendmail exited with return code 2
+Jun 14 13:51:21 btlsokrishnak nm-dispatcher: req:1 'up' [enp0s31f6], "/etc/NetworkManager/dispatcher.d/01ifupdown": complete: failed with Script '/etc/NetworkManager/dispatcher.d/01ifupdown' exited with error status 1.
+Jun 14 13:51:21 btlsokrishnak NetworkManager[1163]: <warn>  [1560500481.8644] dispatcher: (25) 01ifupdown failed (failed): Script '/etc/NetworkManager/dispatcher.d/01ifupdown' exited with error status 1.
+Jun 14 13:51:24 btlsokrishnak org.gtk.vfs.Daemon[3352]: ** (process:14313): WARNING **: Couldn't create directory monitor on smb://x-gnome-default-workgroup/. Error: Operation not supported by backend
+Jun 14 13:51:25 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:51:29 btlsokrishnak ntpdate[28761]: adjust time server 91.189.89.199 offset 0.001190 sec
+Jun 14 13:54:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 13:55:01 btlsokrishnak CRON[29076]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:01:55 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:05:01 btlsokrishnak CRON[29579]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:05:04 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:14:31 btlsokrishnak wpa_supplicant[1579]: message repeated 4 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 14:15:01 btlsokrishnak CRON[29978]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:17:01 btlsokrishnak CRON[30032]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 14:18:43 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:22:55 btlsokrishnak wpa_supplicant[1579]: message repeated 2 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 14:25:01 btlsokrishnak CRON[30361]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:28:11 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:29:13 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:32:22 btlsokrishnak wpa_supplicant[1579]: message repeated 2 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 14:35:01 btlsokrishnak CRON[30815]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:36:36 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:40:33 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 14:45:02 btlsokrishnak CRON[31187]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:55:01 btlsokrishnak CRON[31765]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 14:56:31 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 15:05:01 btlsokrishnak CRON[32158]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 15:07:01 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 15:07:12 btlsokrishnak kernel: [25188.723187] perf: interrupt took too long (5029 > 5026), lowering kernel.perf_event_max_sample_rate to 39750
+Jun 14 15:11:13 btlsokrishnak wpa_supplicant[1579]: wlp1s0: CTRL-EVENT-SCAN-FAILED ret=-16 retry=1
+Jun 14 15:15:01 btlsokrishnak CRON[32589]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 15:17:01 btlsokrishnak CRON[32678]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 15:25:01 btlsokrishnak CRON[570]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 15:27:35 btlsokrishnak systemd[1]: Starting Daily apt download activities...
+Jun 14 15:32:36 btlsokrishnak systemd[1]: Started Daily apt download activities.
+Jun 14 15:35:01 btlsokrishnak CRON[2063]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 15:35:22 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 15:38:31 btlsokrishnak wpa_supplicant[1579]: message repeated 3 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 15:45:01 btlsokrishnak CRON[2455]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 15:50:04 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 15:55:01 btlsokrishnak CRON[3235]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 15:59:31 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:03:43 btlsokrishnak wpa_supplicant[1579]: message repeated 3 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 16:05:01 btlsokrishnak CRON[3626]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 16:14:13 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:15:01 btlsokrishnak CRON[4023]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 16:16:20 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:17:01 btlsokrishnak CRON[4093]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 16:20:31 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:23:42 btlsokrishnak wpa_supplicant[1579]: message repeated 2 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 16:25:01 btlsokrishnak CRON[4479]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 16:32:01 btlsokrishnak CRON[4869]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+Jun 14 16:34:10 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:35:01 btlsokrishnak CRON[4986]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 16:35:15 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:45:01 btlsokrishnak CRON[5381]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 16:48:52 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 16:55:01 btlsokrishnak CRON[6140]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 16:58:19 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 17:01:29 btlsokrishnak wpa_supplicant[1579]: message repeated 2 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 17:05:01 btlsokrishnak CRON[6572]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 17:05:42 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 17:08:51 btlsokrishnak wpa_supplicant[1579]: message repeated 3 times: [ nl80211: send_and_recv->nl_recvmsgs failed: -33]
+Jun 14 17:09:52 btlsokrishnak wpa_supplicant[1579]: wlp1s0: CTRL-EVENT-SCAN-FAILED ret=-16 retry=1
+Jun 14 17:15:01 btlsokrishnak CRON[7178]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 17:17:01 btlsokrishnak CRON[7294]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+Jun 14 17:17:13 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 17:17:40 btlsokrishnak snapd[1167]: storehelpers.go:441: cannot refresh: snap has no updates available: "core", "flock-chat", "spotify", "superproductivity"
+Jun 14 17:17:40 btlsokrishnak snapd[1167]: autorefresh.go:389: auto-refresh: all snaps are up-to-date
+Jun 14 17:22:29 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
+Jun 14 17:25:01 btlsokrishnak CRON[7707]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 17:35:01 btlsokrishnak CRON[8238]: (root) CMD (command -v debian-sa1 > /dev/null && debian-sa1 1 1)
+Jun 14 17:40:19 btlsokrishnak wpa_supplicant[1579]: nl80211: send_and_recv->nl_recvmsgs failed: -33
